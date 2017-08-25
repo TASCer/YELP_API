@@ -1,5 +1,5 @@
 # YELP_API
-Took the original file from here: https://github.com/Yelp/yelp-fusion#code-samples and removed Python 2 references, added get_lat_long, cleaned things up
-removed argparse sections
-fixed reviews URL creation (reviews_url =  API_HOST+BUSINESS_PATH+business_id+'/reviews')
-added added more class notebook functions. Up to emotions section.
+Took the original file from here: https://github.com/Yelp/yelp-fusion#code-samples and removed Python 2 references, cleaned things up
+can do up to emotional analysis in class notebook
+I found it interesting how some of the results changed from when they ran it on the old data
+added added more class notebook functions. through emotion content section.
