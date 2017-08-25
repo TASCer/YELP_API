@@ -1,7 +1,7 @@
 
 import json
 import requests
-import collections
+
 try:
     # For Python 3.0 and later
     from urllib.error import HTTPError
